@@ -1,0 +1,32 @@
+# Databases & Local state
+database.sqlite
+*.db
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+*.class
+
+# Android build outputs & caches
+.gradle/
+**/build/
+android_app/.gradle/
+android_app/build/
+android_app/app/build/
+android_app/local.properties
+android_app/.cxx/
+android_app/.idea/
+android_app/*.iml
+android_app/app/*.iml
+android_app/captures/
+.externalNativeBuild/
+
+# IDE & Editor caches
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+*.log

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TraffMont Monitor</string>
+    <string name="widget_name">TraffMont Traffic</string>
+    <string name="widget_description">Pantau real-time status Mikrotik, Traffic Tx/Rx, Latency, dan SLA langsung di Home Screen.</string>
+    <string name="server_url_hint">Contoh: http://192.168.1.100/traffmont</string>
+    <string name="floating_overlay_title">Floating Overlay</string>
+    <string name="floating_overlay_desc">Tampilkan widget melayang kecil di layar yang selalu terlihat saat membuka aplikasi lain.</string>
+</resources>
+
